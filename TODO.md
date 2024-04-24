@@ -6,6 +6,7 @@
 - [x] Création d'un répo Github
 - [x] Mise en place du framework CodeIgniter
 - [x] Création de la vue Header #template
+- [x] Création de la vue Navbar #template
 - [x] Création de la vue Footer #template 
 
 ---
@@ -13,7 +14,7 @@
 ## Page Login
 
 ### Front
-- [ ] Création de la vue login page
+- [x] Création de la vue login page
 ### Intégration
 - [ ] Vérification du login
 - [ ] Création de la session de l'user
@@ -23,7 +24,7 @@
 ## Page Inscription
 
 ### Front
-- [ ] Création de la vue inscription page
+- [x] Création de la vue inscription page
 ### Intégration
 - [ ] Traitement de l'inscription
 ### Back

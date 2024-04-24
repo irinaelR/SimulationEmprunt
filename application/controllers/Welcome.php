@@ -22,7 +22,7 @@ class Welcome extends CI_Controller {
 	{
 		// $this->NewsModels->getNews();
 		// $this->load->view('templates/header');
-		$this->load->view('welcome_message');
+		$this->load->view('inscription');
 	}
 
 	public function __construct()
