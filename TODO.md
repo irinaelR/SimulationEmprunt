@@ -1,10 +1,12 @@
+# TODO
+
 - [x] Conception de la base
 	- [x] Table Users
 	- [x] Table Emprunts
 - [x] Création d'un répo Github
 - [x] Mise en place du framework CodeIgniter
-- [ ] Création de la vue Header #template
-- [ ] Création de la vue Footer #template 
+- [x] Création de la vue Header #template
+- [x] Création de la vue Footer #template 
 
 ---
 
